@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  padding: 1rem;
+  background-color:#e9f5db ;
+  font-size: 1.3rem;
+  display: flex;
+  border: solid 1px rgb(196, 194, 194);
+}
+
+.container img{
+  width: 50px;
+  margin-right: 1rem;
+}
+
+.container img:nth-child(3){
+  margin-left: auto; 
+ /* padding-bottom: 11px; */
+}
+

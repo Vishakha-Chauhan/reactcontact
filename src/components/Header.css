@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.header-container{
+  width: 100%;
+  background-color: #EDF1D6;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+.header-container > h2{
+  font-size: 2rem;
+}
